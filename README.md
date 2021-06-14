@@ -1,3 +1,21 @@
+# :construction: THIS PATCH IS DEPRECATED. :construction:
+
+Since this patch was created, the AAN change has been merged into the main repo. You can find it here:
+
+- [https://github.com/Pilloxa/react-native-nordic-dfu](https://github.com/Pilloxa/react-native-nordic-dfu)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # react-native-nordic-dfu [![npm version](https://badge.fury.io/js/react-native-nordic-dfu.svg)](https://badge.fury.io/js/react-native-nordic-dfu) [![CircleCI](https://circleci.com/gh/Pilloxa/react-native-nordic-dfu.svg?style=svg)](https://circleci.com/gh/Pilloxa/react-native-nordic-dfu) [![Known Vulnerabilities](https://snyk.io/test/github/pilloxa/react-native-nordic-dfu/badge.svg)](https://snyk.io/test/github/pilloxa/react-native-nordic-dfu)
 
 This library allows you to do a Device Firmware Update (DFU) of your nrf51 or
